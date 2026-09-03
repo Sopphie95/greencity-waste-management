@@ -51,11 +51,8 @@ The system also allows residents to confirm whether their waste was actually col
 
 ## 🎯 Project Goal
 
-The goal of GreenCity was to create a simple digital workflow that improves communication between residents and waste collectors while providing better visibility into waste collection activities.
+The goal of GreenCity was to create a simple digital workflow that improves communication between residents and waste collectors while providing better visibility into waste collection activities
 
-## 📸 Project Preview
-
-Screenshots and project visuals will be added to this repository.
 
 ## 🌐 Live Demo
 
