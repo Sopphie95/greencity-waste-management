@@ -6,6 +6,7 @@ A WordPress-based waste management collection system designed to make household 
 
 ## 🌱 Project Overview
 
+
 GreenCity connects residents and waste collectors through a structured digital platform.
 
 Residents can register their household information and view their collection details, while collectors can manage pickups and update collection statuses.
@@ -53,6 +54,22 @@ The system also allows residents to confirm whether their waste was actually col
 
 The goal of GreenCity was to create a simple digital workflow that improves communication between residents and waste collectors while providing better visibility into waste collection activities
 
+## 📸 Project Preview
+
+### Homepage
+
+<img width="1366" height="4130" alt="screencapture-dev-green-city-recycling-pantheonsite-io-2026-09-03-21_45_04" src="https://github.com/user-attachments/assets/31a96fa5-3efe-4db2-85ff-6f5977b47ddf" />
+
+
+### Resident Dashboard
+
+<img width="1366" height="3436" alt="screencapture-dev-green-city-recycling-pantheonsite-io-resident-dashboard-2026-09-03-21_51_29" src="https://github.com/user-attachments/assets/e8e4d3d7-c20c-4263-9b71-b2f589b0d1e2" />
+
+
+### Collector Dashboard
+
+<img width="1366" height="3915" alt="screencapture-dev-green-city-recycling-pantheonsite-io-collector-dashboard-2026-09-03-21_53_44" src="https://github.com/user-attachments/assets/77dc3565-64cd-4d94-8e31-0ea4a44d8401" />
+
 
 ## 🌐 Live Demo
 
@@ -73,3 +90,5 @@ It also taught me that building a useful web application goes beyond designing p
 **Project:** GreenCity Waste Management Collection System
 **Type:** Web Development / WordPress
 **Status:** Completed
+
+
